@@ -38,7 +38,7 @@ map<string, int> Read_Contact(){  //Function for reading contact from txt file
     string studentName;
     int phoneNumber;    
 
-    contactFile.open("./testcases/contactList.txt");   //Open file from path
+    contactFile.open("./contactList.txt");   //Open file from path
     if (contactFile.is_open()){                        //If the file exist
         contactFile >> studentName >> phoneNumber;     //Read the file in pair
         while (!contactFile.eof()){                    //Read until end of file
