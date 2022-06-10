@@ -1,0 +1,27 @@
+55
+0
+-1
+5
+29-May-2020
+Peter 16.7
+Alice 60.2
+John 38.7
+0 0
+30-May-2020
+Peter 70.6
+Tom 16.7
+Lily 16.7
+Susan 10
+0 0
+31-May-2020
+Peter 40.5
+0 0
+1-Jun-2020
+0 0
+2-Jun-2020
+Alice 89.2
+Tom 100
+0 0
+-1
+0
+
